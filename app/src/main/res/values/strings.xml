@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SunShine</string>
+    <string name="today">Today</string>
+    <string name="maxTemp">20</string>
+    <string name="lowTemp">16</string>
+    <string name="weather">Clear</string>
+    <string name="humidity">Humidity :</string>
+    <string name="humidityValue">71%</string>
+    <string name="pressure">Pressure :</string>
+    <string name="clouds">Clouds :</string>
+    <string name="cloudsValue">2 km/h NW</string>
+    <string name="countryNameValue">Egypt,EG</string>
+    <string name="contentDescription">weatherIcon</string>
+    <string name="pressureValue">1060 hPs</string>
+</resources>
